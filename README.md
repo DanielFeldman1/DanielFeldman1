@@ -32,9 +32,9 @@ A small-scale OS environment simulating basic process scheduling and memory
 
 ## 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=stars&count_private=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielFeldman1&show_icons=true&theme=default&hide=stars&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFeldman1&layout=compact)
 
 ---
 
