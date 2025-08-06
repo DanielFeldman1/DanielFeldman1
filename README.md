@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Daniel Feldman
 
-🎓 4th Year Software Engineering Student  
-🏅 Dean’s List • Passionate about Low-Level Programming & Embedded Systems  
-🧠 Always building, breaking, and learning  
+- 🎓 4th Year Software Engineering Student  
+- 🏅 Dean’s List 
+- 🧠 Always building, breaking, and learning
+- 💼 [LinkedIn](https://www.linkedin.com/in/dany-feldman)  
+- 📧 daniel.feldman.contact@gmail.com  
+- 🌍 [Portfolio](https://portfolio-danielfeldman1s-projects.vercel.app/)
 
 ---
 
-## Education
+## 🎓 Education
 **B.Sc. in Software Engineering**, Braude Academic College
 - **GPA:** 86
 - **Honors:** Dean's List
@@ -15,25 +18,25 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages:** C++, C, Python, JavaScript  
-- ⚙️ **Tools:** Git, Docker, VS Code, Linux  
-- 🔬 **Interests:** Embedded Systems, IoT, Compilers, Reverse Engineering
+- 💻 **Languages:** Python, C, C++, Java, JavaScript
+- ⚙️ **Tools:** Git, VS Code  
+- 🔬 **Interests:** Embedded Systems, IoT
 
 ---
 
 ## 🚀 Projects
 
+🗂️ **[Downloads Organizer](https://github.com/DanielFeldman1/folder-organizer)**  
+A reversable Python script that organizes files in the downloads folder into corresponding user folders by extensions.  
+`Python • OS • shutil`
+
+🧠 **[Synthetic Sentience](https://github.com/DanielFeldman1/synthetic-sentience)**  
+An AI chatbot who's outputs are influenced by user inputs, mimicking human responses.  
+`JavaScript • Next.js • Python • FastAPI • Transformers`
+
 🌗 **[Auto RGB LED Strip](https://github.com/your-repo)**  
 Arduino-based RGB light that syncs with time of day using FastLED + NTP  
 `ESP32 • WS2812B • C++ • TimeLib`
-
-📈 **[Stock Market Analyzer](https://github.com/your-repo)**  
-Python scripts for fetching and analyzing stock performance over time  
-`Python • Pandas • Matplotlib`
-
-🧠 **[Mini OS Simulator](https://github.com/your-repo)**  
-A small-scale OS environment simulating basic process scheduling and memory  
-`C • Operating Systems`
 
 ---
 
@@ -47,10 +50,11 @@ A small-scale OS environment simulating basic process scheduling and memory
 
 ## 📫 Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 danielfeldman@example.com  
-- 🌍 [Portfolio](https://your-portfolio.com) _(if you have one)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/dany-feldman)  
+- 📧 daniel.feldman.contact@gmail.com  
+- 🌍 [Portfolio](https://portfolio-danielfeldman1s-projects.vercel.app/)
 
 ---
 
-> “First solve the problem. Then, write the code.” – John Johnson  
+> “Clean code always looks like it was written by someone who cares.”  
+> — Robert C. Martin (*Clean Code*)
