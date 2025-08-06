@@ -34,10 +34,6 @@ A reversable Python script that organizes files in the downloads folder into cor
 An AI chatbot who's outputs are influenced by user inputs, mimicking human responses.  
 `JavaScript • Next.js • Python • FastAPI • Transformers`
 
-🌗 **[Auto RGB LED Strip](https://github.com/your-repo)**  
-Arduino-based RGB light that syncs with time of day using FastLED + NTP  
-`ESP32 • WS2812B • C++ • TimeLib`
-
 ---
 
 ## 📊 GitHub Stats
