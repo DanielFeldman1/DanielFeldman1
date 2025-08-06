@@ -1,8 +1,13 @@
 # 👋 Hi, I'm Daniel Feldman
 
-🎓 4th Year Software Engineering Student at Braude College  
+🎓 4th Year Software Engineering Student  
 🏅 Dean’s List • Passionate about Low-Level Programming & Embedded Systems  
 🧠 Always building, breaking, and learning  
+
+---
+
+## Education
+- **B.Sc. in Software Engineering**, Braude Academic College
 
 ---
 
