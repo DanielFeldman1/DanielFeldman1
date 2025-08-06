@@ -7,7 +7,9 @@
 ---
 
 ## Education
-- **B.Sc. in Software Engineering**, Braude Academic College
+**B.Sc. in Software Engineering**, Braude Academic College
+- **GPA:** 86
+- **Honors:** Dean's List
 
 ---
 
