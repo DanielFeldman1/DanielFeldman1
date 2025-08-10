@@ -25,6 +25,10 @@
 ---
 
 ## 🚀 Projects
+👔 **[LinkClean](https://github.com/DanielFeldman1/LinkClean)**  
+A Chrome extension to hide the feed in LinkedIn to be more mindful about using the app and not mindlessly scroll.  
+Technologies: `JavaScript • CSS • HTML • JSON`  
+Concepts and APIs: `Chrome Extension APIs • DOM Manipulation`  
 
 🗂️ **[Downloads Organizer](https://github.com/DanielFeldman1/folder-organizer)**  
 A reversable Python script that organizes files in the downloads folder into corresponding user folders by extensions.  
